@@ -1,1 +1,3 @@
 Hello World!!
+
+Test direct commit without adding to stage
